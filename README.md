@@ -1,6 +1,6 @@
 
 
-# DevOps Inventory Management System (AWS Deployment)
+# CloudOps Inventory Management System (AWS Deployment)
 
 CloudOps Inventory Platform is a **cloud-native, full-stack inventory management system deployed on AWS**, designed to demonstrate production-grade infrastructure architecture including secure **networking**, **scalable compute**, and **managed database services**.
 
