@@ -2,7 +2,11 @@
 
 # DevOps Inventory Management System (AWS Deployment)
 
-This project focuses on the **Solutions Architecture** and **Cloud Deployment** of a full-stack inventory management dashboard. The goal of this repository is to demonstrate a production-grade AWS infrastructure setup, encompassing networking, secure database management, and scalable compute services.
+CloudOps Inventory Platform is a **cloud-native, full-stack inventory management system deployed on AWS**, designed to demonstrate production-grade infrastructure architecture including secure **networking**, **scalable compute**, and **managed database services**.
+
+The system follows a hardened 3-tier architecture using **Next.js** (frontend), **Node.js/Express** (application layer), and **PostgreSQL on Amazon RDS**, with **S3-based asset storage** and **API Gateway-based request routing**.
+
+It emphasizes infrastructure isolation using VPC design, private subnets for data security, and EC2-based backend deployment managed via PM2 for process reliability. CI/CD is handled through AWS Amplify with GitHub integration for automated deployments.
 
 ## Architecture Overview
 
